@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="pregunta1">¿Aang es un maestro aire?</string>
+    <string name="pregunta2">¿La nación del fuego conquisto la tribu agua?</string>
+    <string name="pregunta3">¿Roku es el señor del fuego?</string>
+    <string name="pregunta4">¿Sokka es un maestro agua?</string>
+    <string name="pregunta5">¿Momo es un lemur volador?</string>
+    <string name="pregunta6">¿Appa es un bisonte volador?</string>
+    <string name="pregunta7">¿Zuko es un maestro tierra?</string>
+    <string name="pregunta8">¿Aang es el avatar?</string>
+    <string name="pregunta9">¿Toph es una maestra agua?</string>
+    <string name="pregunta10">¿Katara es una maestra tiera?</string>
+    <string name="pregunta11">¿Iroh es un maestro fuego?</string>
+    <string name="pregunta12">¿Existen dos tribus agua?</string>
+    <string name="pregunta13">¿Bumi es el rey del reino tierra?</string>
+    <string name="pregunta14">¿Hakoda es jefe de la tribu agua del norte?</string>
+    <string name="pregunta15">¿Ozai es un maestro fuego?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correcto!!</string>
+    <string name="incorrect_toast">Incorrecto!!</string>
+    <string name="next_button">Siguente pregunta</string>
+    <string name="warning_text">¿Estas seguro que quieres hacerlo?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">Trampa!</string>
+    <string name="judgment_toast">Hacer trampa esta mal.</string>
+
+</resources>
